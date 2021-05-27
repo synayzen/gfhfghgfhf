@@ -1,0 +1,23 @@
+{
+  "name": "AssassinsCODE",
+  "version": "0.0.1",
+  "description": "Assassins.",
+  "main": "ares.js",
+  "scripts": {
+    "start": "node ares.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "quick.db": "^7.1.2",
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
